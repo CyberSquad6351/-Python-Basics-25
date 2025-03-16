@@ -64,7 +64,7 @@ Perfect for:
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/25-basic-python-projects.git
+git clone https://github.com/CyberSquad6351/-Python-Basics-25.git
 cd 25-basic-python-projects
 ```
 
@@ -134,9 +134,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📬 Contact
 
-Your Name - [Your Email]
+Your Email : mishraaditya.skm14@gmail.com
 
-Project Link: [https://github.com/yourusername/25-basic-python-projects](https://github.com/yourusername/25-basic-python-projects)
 
 ---
 
